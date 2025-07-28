@@ -77,7 +77,7 @@ A wine quality estimation pipeline using regression and classification.
 ---
 
 ## 🏆 Achievements & Certifications
-- _No certifications or formal achievements to display at the moment._ 😊
+- **Python Programming Course**, Faradars — Completed 13 July 2025 ([Verify Certificate](https://faradars.org/verify/73130B42?lang=en))
 
 ---
 
