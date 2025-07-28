@@ -13,10 +13,10 @@
 ---
 
 ## 👋 About Me
-- 🤖 I love programming, especially artificial intelligence, and I’m always eager to learn new things.
-- 🌱 Constantly exploring new AI techniques, algorithms, and tools.
-- 🔭 Interested in contributing to open-source projects related to AI and machine learning.
-- ❤️ Always curious about the latest advances in deep learning and neural network architectures.
+- 🎓 Enthusiastic about **machine learning**, **deep learning**, **foundational ML**, and **data science**.
+- 🌱 Constantly exploring new techniques, algorithms, and tools in the data science ecosystem.
+- 🔭 Interested in contributing to open-source projects in machine learning and data science.
+- ❤️ Always curious about the latest advances in neural networks and their real-world applications.
 
 ---
 
@@ -24,6 +24,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Seaborn-%230077B5.svg?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
 </div>
 
 ---
@@ -53,8 +58,8 @@
 ---
 
 ## 🎯 Goals & Interests
-- 🎯 **Goal:** Currently focused on learning the fundamentals of artificial intelligence and machine learning.
-- 📚 **Currently Learning:** Taking my first steps into the world of AI while also diving deeper into advanced C++.
+- 🎯 **Goal:** Currently focused on mastering machine learning and deep learning fundamentals.
+- 📚 **Currently Learning:** Diving deeper into advanced C++ and data science workflows.
 - ❤️ **Interests:**  
   - Data processing and analysis  
   - Image processing and computer vision  
