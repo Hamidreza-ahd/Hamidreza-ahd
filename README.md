@@ -36,19 +36,43 @@
 ## 🚀 Featured Project
 
 ### TextBasedUNO-Cpp
-> A console-based UNO card game implemented in C++.
+A console-based UNO card game implemented in C++.
 
-- **Short Description:**  
+- **Short Description:**
   A fully text-based simulation of the popular UNO card game. Supports drawing cards, turn-based gameplay, and special action cards such as Reverse, Skip, Draw Two, and Wild. Players can be human or simple AI.
-- **Key Technologies & Concepts:**  
-  - **Language:** C++ (C++11 and above)  
-  - **STL Usage:** `std::vector` for hand management, `std::shuffle` for shuffling the deck  
-  - **Object-Oriented Design:**  
-    - `Card`, `Deck`, `Player`, and `Game` classes to encapsulate game logic  
-    - Simple inheritance for different card types (number, color, special)  
-  - **Console I/O:** `std::cin` / `std::cout` for user interaction in the terminal  
-  - **Game Flow Control:** Loops and conditional statements to handle turns and determine the winner  
+- **Key Technologies & Concepts:**
+  - **Language:** C++ (C++11 and above)
+  - **STL Usage:** `std::vector` for hand management, `std::shuffle` for shuffling the deck
+  - **Object-Oriented Design:**
+    - `Card`, `Deck`, `Player`, and `Game` classes to encapsulate game logic
+    - Simple inheritance for different card types (number, color, special)
+  - **Console I/O:** `std::cin` / `std::cout` for user interaction in the terminal
+  - **Game Flow Control:** Loops and conditional statements to handle turns and determine the winner
 - **Repository:** [TextBasedUNO-Cpp](https://github.com/Hamidreza-ahd/TextBasedUNO-Cpp)
+
+### Titanic Survival Prediction
+A Titanic survival prediction model built in Python.
+
+- **Short Description:**
+  Uses passenger demographics and voyage details (age, sex, class, etc.) to train classifiers for predicting survival on the Titanic.
+- **Key Technologies & Concepts:**
+  - **Data Processing:** pandas for cleaning, feature engineering, and exploratory data analysis
+  - **Numerical Computation:** NumPy for efficient array operations
+  - **Modeling:** scikit-learn (Logistic Regression, Random Forest) with cross-validation and grid search
+  - **Visualization:** Matplotlib and seaborn for statistical and exploratory plotting
+- **Repository:** [Titanic Survival Prediction](https://github.com/Hamidreza-ahd/titanic-survival-prediction)
+
+### Wine Quality Prediction
+A wine quality estimation pipeline using regression and classification.
+
+- **Short Description:**
+  Develops models to predict red wine quality scores based on physicochemical features from the UCI dataset.
+- **Key Technologies & Concepts:**
+  - **Data Processing:** pandas for dataset loading, cleaning, and preprocessing
+  - **Modeling:** scikit-learn (Linear Regression, Decision Tree, Random Forest) with hyperparameter tuning
+  - **Evaluation:** Mean Absolute Error (MAE) and R² score for performance measurement
+  - **Visualization:** seaborn and Matplotlib for feature correlation and result visualization
+- **Repository:** [Wine Quality Prediction](https://github.com/Hamidreza-ahd/wine-quality-prediction)
 
 ---
 
