@@ -1,21 +1,12 @@
-<!--
-👏 If you’re reading this, congratulations on taking the next step in exploring my GitHub profile! 🎉
--->
-
 <!-- HEADER -->
 
-<h1 align="center">Hello! I’m a programmer</h1>
-<p align="center">
-  <a href="https://github.com/Hamidreza-ahd/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hamidreza-ahd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
+<h1 align="center">Passionate About the World of AI – From Concepts to Creations</h1>
 
----
+
 
 ## 👋 About Me
 
-* I am passionate about **machine learning** and **artificial intelligence**, I enjoy solving **algorithmic problems**, and I aim to specialize in **Computer Vision**.
+I'm a programmer passionate about machine learning and AI. Currently diving deep into deep learning with TensorFlow and Keras, aiming to build expertise in Computer Vision. I love tackling algorithmic challenges and turning data into insights.
 
 ---
 
@@ -29,11 +20,26 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Seaborn-%230077B5.svg?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white" alt="Keras" />
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### Deep Learning Hyperparameter Analysis
+
+A project exploring the impact of hyperparameters on deep learning models using TensorFlow/Keras.
+
+* **Short Description:**
+  Investigates how different hyperparameters (learning rate, batch size, number of layers, etc.) affect model performance and training dynamics. Includes experiments, visualizations, and insights for optimizing neural networks.
+* **Key Technologies & Concepts:**
+  * **Frameworks:** TensorFlow, Keras
+  * **Experimentation:** Systematic hyperparameter tuning, grid search
+  * **Visualization:** Matplotlib for loss/accuracy curves, hyperparameter heatmaps
+  * **Concepts:** Overfitting, underfitting, learning rate schedules, regularization
+* **Repository:** [deep-learning-hyperparameter-analysis](https://github.com/Hamidreza-ahd/deep-learning-hyperparameter-analysis)
 
 ### TextBasedUNO-Cpp
 
@@ -42,13 +48,9 @@ A console-based UNO card game implemented in C++.
 * **Short Description:**
   A fully text-based simulation of the popular UNO card game. Supports drawing cards, turn-based gameplay, and special action cards such as Reverse, Skip, Draw Two, and Wild. Players can be human or simple AI.
 * **Key Technologies & Concepts:**
-
   * **Language:** C++ (C++11 and above)
   * **STL Usage:** `std::vector` for hand management, `std::shuffle` for shuffling the deck
-  * **Object-Oriented Design:**
-
-    * `Card`, `Deck`, `Player`, and `Game` classes to encapsulate game logic
-    * Simple inheritance for different card types (number, color, special)
+  * **Object-Oriented Design:** `Card`, `Deck`, `Player`, and `Game` classes to encapsulate game logic; simple inheritance for different card types
   * **Console I/O:** `std::cin` / `std::cout` for user interaction in the terminal
   * **Game Flow Control:** Loops and conditional statements to handle turns and determine the winner
 * **Repository:** [TextBasedUNO-Cpp](https://github.com/Hamidreza-ahd/TextBasedUNO-Cpp)
@@ -60,7 +62,6 @@ A Titanic survival prediction model built in Python.
 * **Short Description:**
   Uses passenger demographics and voyage details (age, sex, class, etc.) to train classifiers for predicting survival on the Titanic.
 * **Key Technologies & Concepts:**
-
   * **Data Processing:** pandas for cleaning, feature engineering, and exploratory data analysis
   * **Numerical Computation:** NumPy for efficient array operations
   * **Modeling:** scikit-learn (Logistic Regression, Random Forest) with cross-validation and grid search
@@ -74,7 +75,6 @@ A wine quality estimation pipeline using regression and classification.
 * **Short Description:**
   Develops models to predict red wine quality scores based on physicochemical features from the UCI dataset.
 * **Key Technologies & Concepts:**
-
   * **Data Processing:** pandas for dataset loading, cleaning, and preprocessing
   * **Modeling:** scikit-learn (Linear Regression, Decision Tree, Random Forest) with hyperparameter tuning
   * **Evaluation:** Mean Absolute Error (MAE) and R² score for performance measurement
@@ -85,25 +85,30 @@ A wine quality estimation pipeline using regression and classification.
 
 ## 🏆 Achievements & Certifications
 
-* [**Python Programming Course** - Faradars Certification ](https://faradars.org/verify/73130B42?lang=en)
+* [**Python Programming Course** - Faradars Certification](https://faradars.org/verify/73130B42?lang=en)
 * [**Pandas — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/pandas)
 * [**Python — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/python)
 * [**Intro to Machine Learning — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/intro-to-machine-learning)
 
 ---
 
-## 🎯 Goals & Interests
+## 🧠 Currently Learning
 
-* **Goal:** Specialization in Machine Learning, Deep Learning, and Computer Vision.
-* **Currently learning:** Intermediate Machine Learning
+- Deep Learning with TensorFlow & Keras
+- Building neural networks for image classification
+- Hyperparameter tuning and optimization techniques
+- Computer Vision fundamentals (CNNs, transfer learning)
 
 ---
 
-## ❤️ Interests
+## 🎯 Current Focus & Interests
 
-* Data processing and analysis
-* Image processing and computer vision
-* Machine learning and its real-world applications
+* **Goal:** Specialize in Deep Learning and Computer Vision
+* **Interests:**
+  * Data processing and analysis
+  * Image processing and computer vision
+  * Machine learning and its real-world applications
+  * Algorithmic problem solving
 
 ---
 
@@ -115,6 +120,12 @@ A wine quality estimation pipeline using regression and classification.
   </a>
   <a href="https://instagram.com/haamidreza_ahmadi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamidreza-ahmadi-9431a1333">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/hamidrezaahd">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
