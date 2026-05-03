@@ -1,12 +1,23 @@
 <!-- HEADER -->
 
-<h1 align="center">Passionate About the World of AI – From Concepts to Creations</h1>
+<h1 align="center">Machine Learning & Computer Vision Developer</h1>
 
+<p align="center">
+  Computer Engineering student focused on Machine Learning, Deep Learning, and Computer Vision.
+</p>
 
+---
 
 ## 👋 About Me
 
-I'm a programmer passionate about machine learning and AI. Currently diving deep into deep learning with TensorFlow and Keras, aiming to build expertise in Computer Vision. I love tackling algorithmic challenges and turning data into insights.
+I am a programmer passionate about machine learning and AI, with a strong interest in deep learning and computer vision.  
+I enjoy building end-to-end projects that go beyond experimentation and turn trained models into usable applications.
+
+My current focus is on:
+- Deep Learning with TensorFlow and Keras
+- Computer Vision and image classification
+- Practical machine learning workflows
+- Writing clean, reproducible, and portfolio-ready code
 
 ---
 
@@ -19,96 +30,102 @@ I'm a programmer passionate about machine learning and AI. Currently diving deep
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Seaborn-%230077B5.svg?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+### Fashion Image Classifier
+A deployable deep learning web application for clothing image classification.
+
+* **Short Description:**  
+  A Flask-based web app powered by a CNN trained on the Fashion-MNIST dataset. Users can upload an image, view a preview, and receive a real-time prediction with confidence score.
+* **Key Technologies & Concepts:**
+  * **Frameworks:** Flask, TensorFlow, Keras
+  * **Deep Learning:** Convolutional Neural Network (CNN)
+  * **Inference Pipeline:** Image preprocessing, model loading, prediction
+  * **Deployment-Oriented Design:** Web interface and user-friendly output
+* **Repository:** [fashion-classifier-app](https://github.com/Hamidreza-ahd/fashion-classifier-app)
+
 ### Deep Learning Hyperparameter Analysis
+An empirical study of hyperparameter effects on neural network performance.
 
-A project exploring the impact of hyperparameters on deep learning models using TensorFlow/Keras.
-
-* **Short Description:**
-  Investigates how different hyperparameters (learning rate, batch size, number of layers, etc.) affect model performance and training dynamics. Includes experiments, visualizations, and insights for optimizing neural networks.
+* **Short Description:**  
+  A TensorFlow/Keras project exploring how learning rate, batch size, and architecture choices influence training dynamics and model performance.
 * **Key Technologies & Concepts:**
   * **Frameworks:** TensorFlow, Keras
-  * **Experimentation:** Systematic hyperparameter tuning, grid search
-  * **Visualization:** Matplotlib for loss/accuracy curves, hyperparameter heatmaps
-  * **Concepts:** Overfitting, underfitting, learning rate schedules, regularization
+  * **Experimentation:** Hyperparameter comparison and model evaluation
+  * **Visualization:** Training curves, accuracy/loss plots
+  * **Concepts:** Overfitting, underfitting, optimization, regularization
 * **Repository:** [deep-learning-hyperparameter-analysis](https://github.com/Hamidreza-ahd/deep-learning-hyperparameter-analysis)
 
-### TextBasedUNO-Cpp
+### Fashion MNIST Architecture Comparison
+A structured comparison of neural network architectures on Fashion-MNIST.
 
-A console-based UNO card game implemented in C++.
-
-* **Short Description:**
-  A fully text-based simulation of the popular UNO card game. Supports drawing cards, turn-based gameplay, and special action cards such as Reverse, Skip, Draw Two, and Wild. Players can be human or simple AI.
+* **Short Description:**  
+  This project compares different model designs and training strategies to study how architectural choices affect classification performance.
 * **Key Technologies & Concepts:**
-  * **Language:** C++ (C++11 and above)
-  * **STL Usage:** `std::vector` for hand management, `std::shuffle` for shuffling the deck
-  * **Object-Oriented Design:** `Card`, `Deck`, `Player`, and `Game` classes to encapsulate game logic; simple inheritance for different card types
-  * **Console I/O:** `std::cin` / `std::cout` for user interaction in the terminal
-  * **Game Flow Control:** Loops and conditional statements to handle turns and determine the winner
-* **Repository:** [TextBasedUNO-Cpp](https://github.com/Hamidreza-ahd/TextBasedUNO-Cpp)
+  * **Frameworks:** TensorFlow, Keras
+  * **Architecture Evaluation:** Scaling, dropout, batch normalization
+  * **Analysis:** Performance comparison and model behavior
+  * **Concepts:** CNN design, generalization, optimization
+* **Repository:** [fashion-mnist-architecture-comparison](https://github.com/Hamidreza-ahd/fashion-mnist-architecture-comparison)
 
 ### Titanic Survival Prediction
+A classic machine learning classification project.
 
-A Titanic survival prediction model built in Python.
-
-* **Short Description:**
-  Uses passenger demographics and voyage details (age, sex, class, etc.) to train classifiers for predicting survival on the Titanic.
+* **Short Description:**  
+  Uses passenger data such as age, sex, class, and fare to predict survival on the Titanic with scikit-learn models.
 * **Key Technologies & Concepts:**
-  * **Data Processing:** pandas for cleaning, feature engineering, and exploratory data analysis
-  * **Numerical Computation:** NumPy for efficient array operations
-  * **Modeling:** scikit-learn (Logistic Regression, Random Forest) with cross-validation and grid search
-  * **Visualization:** Matplotlib and seaborn for statistical and exploratory plotting
-* **Repository:** [Titanic Survival Prediction](https://github.com/Hamidreza-ahd/titanic-survival-prediction)
+  * **Data Processing:** pandas, feature engineering, preprocessing
+  * **Modeling:** scikit-learn, cross-validation, model comparison
+  * **Evaluation:** Classification metrics and validation workflow
+* **Repository:** [titanic-survival-prediction](https://github.com/Hamidreza-ahd/titanic-survival-prediction)
 
-### Wine Quality Prediction
+### TextBasedUNO-Cpp
+A console-based UNO card game built in C++.
 
-A wine quality estimation pipeline using regression and classification.
-
-* **Short Description:**
-  Develops models to predict red wine quality scores based on physicochemical features from the UCI dataset.
+* **Short Description:**  
+  A text-based UNO game implemented with object-oriented design and turn-based gameplay logic.
 * **Key Technologies & Concepts:**
-  * **Data Processing:** pandas for dataset loading, cleaning, and preprocessing
-  * **Modeling:** scikit-learn (Linear Regression, Decision Tree, Random Forest) with hyperparameter tuning
-  * **Evaluation:** Mean Absolute Error (MAE) and R² score for performance measurement
-  * **Visualization:** seaborn and Matplotlib for feature correlation and result visualization
-* **Repository:** [Wine Quality Prediction](https://github.com/Hamidreza-ahd/wine-quality-prediction)
+  * **Language:** C++
+  * **OOP Design:** Classes for cards, deck, players, and game flow
+  * **STL Usage:** Containers and algorithms
+  * **Console I/O:** Interactive terminal gameplay
+* **Repository:** [TextBasedUNO-Cpp](https://github.com/Hamidreza-ahd/TextBasedUNO-Cpp)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 * [**Python Programming Course** - Faradars Certification](https://faradars.org/verify/73130B42?lang=en)
-* [**Pandas — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/pandas)
-* [**Python — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/python)
-* [**Intro to Machine Learning — Kaggle Certification** (HamidrezaAhd)](https://www.kaggle.com/learn/certification/hamidrezaahd/intro-to-machine-learning)
+* [**Pandas — Kaggle Certification**](https://www.kaggle.com/learn/certification/hamidrezaahd/pandas)
+* [**Python — Kaggle Certification**](https://www.kaggle.com/learn/certification/hamidrezaahd/python)
+* [**Intro to Machine Learning — Kaggle Certification**](https://www.kaggle.com/learn/certification/hamidrezaahd/intro-to-machine-learning)
 
 ---
 
 ## 🧠 Currently Learning
 
 - Deep Learning with TensorFlow & Keras
-- Building neural networks for image classification
-- Hyperparameter tuning and optimization techniques
-- Computer Vision fundamentals (CNNs, transfer learning)
+- Computer Vision fundamentals
+- Model deployment with Flask
+- Better experimentation and evaluation practices
+- Building cleaner, more presentation-ready AI projects
 
 ---
 
-## 🎯 Current Focus & Interests
+## 🎯 Current Focus
 
-* **Goal:** Specialize in Deep Learning and Computer Vision
-* **Interests:**
-  * Data processing and analysis
-  * Image processing and computer vision
-  * Machine learning and its real-world applications
-  * Algorithmic problem solving
+I am currently focusing on:
+- Building practical machine learning projects
+- Converting notebooks into deployable applications
+- Improving computer vision skills
+- Creating a stronger portfolio for internships and entry-level roles
 
 ---
 
@@ -132,5 +149,5 @@ A wine quality estimation pipeline using regression and classification.
 ---
 
 <p align="center">
-  If you found this README helpful, don’t forget to ⭐ my repository!
+  If you found this README helpful, feel free to star the repository ⭐
 </p>
